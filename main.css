@@ -1,22 +1,5 @@
  
-body {
-  background-color: #FFEE8C;
 
-}
-
-h1 {
-  color: brown;
-
-}
-
-.main-div {
-  background-color: yellow;
-  margin: auto;
-  padding: 25px;
-  width: 600px;
-  border: 2px solid #ddd;
-  border-radius: 10px;
-}
 
 table {
   border: 2px solid #777;
